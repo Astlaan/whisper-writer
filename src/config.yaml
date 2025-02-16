@@ -1,5 +1,6 @@
 misc:
-  hide_status_window: true
+  hide_main_window: true
+  hide_status_window: false
   noise_on_completion: false
   print_to_terminal: true
 model_options:
@@ -30,6 +31,6 @@ recording_options:
   input_backend: auto
   min_duration: 100
   recording_mode: press_to_toggle
-  sample_rate: 32000
+  sample_rate: 16000
   silence_duration: 900
   sound_device: null

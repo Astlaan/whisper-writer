@@ -157,6 +157,10 @@ misc:
     value: true
     type: bool
     description: "Set to true to print the script status and transcribed text to the terminal."
+  hide_main_window:
+    value: true
+    type: bool
+    description: "Set to true to hide the main window on startup."
   hide_status_window:
     value: false
     type: bool
